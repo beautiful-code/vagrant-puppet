@@ -1,0 +1,2 @@
+192.168.33.10 master.bc.com # puppet master
+192.1683.33.11 agent01.bc.com # puppet agent
